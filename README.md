@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Valeria
-- 👀 I’m interested in the cybersecurity field
+- 👀 I'm interested in the field of computer science and cybersecurity
 - 🌱 I’m currently learning and exploring various aspects of cybersecurity at Accenture Cyber HackAdemy
 - 📫 You can reach me at valeria.salaris-hackademy@unina.it
 
